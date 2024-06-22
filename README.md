@@ -36,5 +36,5 @@ I am a devoted Data Science and Artificial Intelligence student at IIIT Naya Rai
 
 ## Links
 - [GitHub](https://github.com/KHUSHDEEP-17)
-- [LinkedIn]([https://www.linkedin.com/in/khushdeep-singh-5560b9252/])
+- [LinkedIn](https://www.linkedin.com/in/khushdeep-singh-5560b9252/)
 - 
