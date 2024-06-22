@@ -30,6 +30,3 @@ I am a devoted Data Science and Artificial Intelligence student at IIIT Naya Rai
 - ![Kaggle](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle)
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-## Links
-- [GitHub](https://github.com/KHUSHDEEP-17)
-- [LinkedIn](https://www.linkedin.com/in/khushdeep-singh-5560b9252/)
